@@ -7,7 +7,7 @@ sections:
     content: >-
       Help students search available properties, view photos/videos, complete
       paperwork, and pay.
-    image: images/hero.png
+    image: /images/11.jpg
     section_id: hero
     title: Simplify. Connect. Service.
     type: section_hero

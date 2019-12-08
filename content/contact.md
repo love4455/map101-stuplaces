@@ -10,9 +10,12 @@ sections:
     title: Strategies
     type: section_contact
 menu:
-  secondary:
+  main:
     name: Strategies
     weight: 3
+  secondary:
+    name: ''
+    weight: ''
 layout: landing
 ---
 

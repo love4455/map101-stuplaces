@@ -23,6 +23,8 @@ sections:
       to them easily given the trust and relationships built with Stuplaces.
       Also, being an early mover will help the venture to learn from mistakes
       quickly and improve the platform without losing any customers.
+    image: /images/12.jpg
+    title: Key Strategies
     type: section_content
 menu:
   main:

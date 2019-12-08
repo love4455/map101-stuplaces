@@ -18,7 +18,7 @@ params:
     tagline: SaaS theme by Stackbit
   header:
     has_nav: true
-    logo_img: ''
+    logo_img: /images/stulogo.png
     title: Stuplaces
     menu:
       actions:

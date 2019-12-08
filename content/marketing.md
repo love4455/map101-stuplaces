@@ -3,7 +3,7 @@ title: Marketing
 menu:
   main:
     name: Marketing
-    weight: 6
+    weight: 5
   secondary:
     name: ''
     weight: ''

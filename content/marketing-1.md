@@ -5,8 +5,8 @@ menu:
     name: Finance
     weight: 6
   secondary:
-    name: Finance
-    weight: 3
+    name: ''
+    weight: ''
 layout: landing
 ---
 

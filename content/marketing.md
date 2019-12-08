@@ -5,8 +5,8 @@ menu:
     name: Marketing
     weight: 6
   secondary:
-    name: Marketing
-    weight: 5
+    name: ''
+    weight: ''
 layout: landing
 ---
 

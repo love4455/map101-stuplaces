@@ -1,12 +1,12 @@
 ---
-title: Marketing
+title: Finance
 menu:
   main:
-    name: Marketing
+    name: Finance
     weight: 6
   secondary:
-    name: Marketing
-    weight: 5
+    name: Finance
+    weight: 3
 layout: landing
 ---
 

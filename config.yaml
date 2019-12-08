@@ -10,12 +10,12 @@ params:
       - new_window: true
         text: Made with Stackbit
         url: 'https://www.stackbit.com'
-    logo_img: /images/Logo.PNG
+    logo_img: /images/stulogo3.png
     nav_title: Company
     social_title: Community
     subscribe_content: Stay up to date with our latest developments.
     subscribe_title: Subscribe
-    tagline: SaaS theme by Stackbit
+    tagline: Stuplaces
   header:
     has_nav: true
     logo_img: /images/stulogo3.png

@@ -69,7 +69,7 @@ sections:
 menu:
   main:
     name: Risk
-    weight: 7
+    weight: 4
 layout: landing
 ---
 

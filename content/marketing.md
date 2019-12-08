@@ -26,6 +26,8 @@ sections:
       Multiple seminars and events will be scheduled with the existing
       international students so that they can promote the product via word of
       mouth to their friends and families.
+    image: /images/9.jpg
+    title: Customer Focus
     type: section_content
 menu:
   main:
